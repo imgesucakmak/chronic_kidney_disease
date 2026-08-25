@@ -1,0 +1,13 @@
+# Streamlit uygulamasının çalışması için gereken paketler
+streamlit==1.62.0
+pandas==3.0.5
+numpy==2.5.1
+joblib==1.5.3
+matplotlib==3.11.1
+scikit-learn==1.9.0
+xgboost==3.4.1
+shap==0.52.0
+dice-ml==0.12
+
+# chronic_kidney_disease.py ile modeli yeniden eğitmek istenirse gerekir.
+ucimlrepo>=0.0.7
