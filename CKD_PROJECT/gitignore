@@ -1,0 +1,38 @@
+# Python önbelleği ve derleme çıktıları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+ENV/
+
+# Ortam değişkenleri ve Streamlit gizli ayarları
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Test, hata ayıklama ve yerel çıktı dosyaları
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.log
+test_results/
+
+# Jupyter ve işletim sistemi dosyaları
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Editör ayarları
+.vscode/
+.idea/
+
+# ÖNEMLİ: Aşağıdaki artefact'lar app.py tarafından kullanılır.
+# Community Cloud'a yayınlamak için bunları depoya ekleyin; burada ignore edilmezler:
+# ckd_model.pkl, columns.pkl, shap_explainer.pkl,
+# permitted_range.pkl, features_to_vary.pkl, train_data.csv
