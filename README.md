@@ -4,7 +4,7 @@ Kronik böbrek hastalığı (Chronic Kidney Disease – CKD) risk tahmini yapan,
 **SHAP** ve **karşı-olgusal (counterfactual) açıklamalar** ile destekleyen, doktor ve hasta
 için ayrı görünümler sunan bir klinik karar destek sistemi prototipi.
 
-Bu proje bir bitirme projesi kapsamında, akademik/demonstrasyon amacıyla geliştirilmiştir.
+Bu proje, akademik/demonstrasyon amacıyla geliştirilmiştir.
 **Tanı, tedavi önerisi veya tıbbi tavsiye niteliği taşımaz.**
 
 ## 🔗 Canlı Demo
@@ -103,4 +103,4 @@ perspektifinin eksikliği) hareketle tasarlanmıştır:
 
 ## 👤 Yazar
 
-Imge Su — Bilgisayar Mühendisliği, bitirme projesi.
+Imge Su — Bilgisayar Mühendisliği.
